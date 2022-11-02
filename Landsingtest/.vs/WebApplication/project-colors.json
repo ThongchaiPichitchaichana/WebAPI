@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "74065a66-62a9-4255-9f67-0ddc7951ab12": {
+      "ProjectGuid": "74065a66-62a9-4255-9f67-0ddc7951ab12",
+      "DisplayName": "WebApplication",
+      "ColorIndex": 0
+    },
+    "4b305de8-2de4-42cf-8c7b-8b7cebdf7c16": {
+      "ProjectGuid": "4b305de8-2de4-42cf-8c7b-8b7cebdf7c16",
+      "DisplayName": "WebApplication.Services",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
